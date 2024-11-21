@@ -54,7 +54,7 @@ composer require MDmdMandoinfo/Ticket-System
 
 # Basic Usage
 
-# Enable SSL
+# Configuration
 ```php
 <?php
 
